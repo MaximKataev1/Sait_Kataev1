@@ -1,0 +1,22 @@
+body{
+    background: snow;
+}
+
+.flex{
+    text-align: center;
+}
+
+.avik{
+    text-align: center;
+    margin-top: 100px;
+    animation: blink 5s linear infinite;
+}
+
+@keyframes blink{
+    0%, 50%{
+        opacity: 1;
+    }
+    25%, 75%{
+        opacity: 0;
+    }
+}

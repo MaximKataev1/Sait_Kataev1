@@ -1,0 +1,120 @@
+body{
+    background: snow;
+}
+
+.flex{
+    text-align: center;
+}
+
+.ul li{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    background-color: pink;
+}
+
+.link a{
+    display: block;
+    width: 150px;
+    padding: 10px;
+    margin: 10px;
+    color: violet;
+    text-decoration: none;
+}
+
+.block{
+    margin: 20px;
+}
+
+.block div{
+    display: inline-block;
+    padding: 10px;
+    margin: 20px;
+    background-color: pink;
+}
+
+.none{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    background-color: pink;
+}
+
+.block div .not{
+    display: none;
+}
+
+.links a{
+    display: block;
+    padding: 5px;
+    width: 200px;
+    background-color: pink;
+}
+
+.links{
+    list-style-type: none;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.float1 .img{
+    background: url(../pr9/img/weather-blizzard.jpg);
+    width: 100px;
+    height: 100px;
+    display: cover;
+    border: 3px dashed violet;
+    display: inline-block;
+    float: left;
+    margin-right: 5px;
+}
+
+.float1{
+    background-color: pink;
+    display: inline-block;
+}
+
+.float2{
+    background-color: pink;
+    display: inline-block;
+}
+
+.float2 .img{
+    background: url(../pr9/img/weather-sun.jpg);
+    width: 100px;
+    height: 100px;
+    display: cover;
+    border: 3px dashed violet;
+    display: inline-block;
+    float: right;
+}
+
+.ul{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-right: 60px;
+}
+
+.link{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.block .none{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    display: none;
+}
+
+.float1{
+    margin-top: 50px;
+}
+
+.block{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,116 @@
+.skill1 {
+    display: flex;
+    background: url(../img/Баскетбол.jpg);
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    border-radius: 15%;
+    margin: 10px;
+    transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    -webkit-transition: all 1s ease-out;
+    left: 25px;
+}
+
+.skill1:hover
+{
+    transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -o-transform: scale(1.05);
+}
+
+.skill2 {
+    display: flex;
+    background: url(../img/ММА.jpg);
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    border-radius: 15%;
+    margin: 10px;
+    transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    -webkit-transition: all 1s ease-out;
+    left: 25px;
+}
+
+.skill2:hover
+{
+    transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -o-transform: scale(1.05);
+}
+
+.img3:hover
+{
+    transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -o-transform: scale(1.05);
+}
+
+.img4:hover
+{
+    transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -o-transform: scale(1.05);
+}
+
+.img5:hover
+{
+    transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -o-transform: scale(1.05);
+}
+
+.img6:hover
+{
+    transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -o-transform: scale(1.05);
+}
+
+.img7 {
+    display: flex;
+    background: url(../img/Я.jpg);
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    border-radius: 15%;
+    margin: 10px;
+    transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    -webkit-transition: all 1s ease-out;
+    left: 25px;
+}
+
+.img7:hover
+{
+    transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -o-transform: scale(1.05);
+}
+
+.f1 {
+    width: 300px;
+}
+
+.pogoda {
+    background: url(../img/Погода.png);
+    width: 400px;
+    height: 450px;
+    background-size: 100%;
+    position: absolute;
+}
+
+.pr{
+    line-height: 25px;
+}
