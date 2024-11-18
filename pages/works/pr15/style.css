@@ -1,0 +1,72 @@
+body{
+    background-color: snow;
+}
+
+.flex{
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 57.6px;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 489px 376px 379px;
+    grid-template-rows: 255px auto 239px;
+    justify-content: center;
+    gap: 20px;
+    height: 631px;
+}
+
+.grid1{
+    background: url(img/image\ 1.png)no-repeat;
+    background-size: cover;
+    grid-row: span 3;
+}
+
+.grid2{
+    background: url(img/image\ 2.png)no-repeat;
+    background-size: cover;
+    height: 255px;
+}
+
+.grid3{
+    background: url(img/image\ 3.png)no-repeat;
+    background-size: cover;
+    height: 255px;
+}
+
+.grid4{
+    grid-column: span 2;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.8px;
+}
+
+.grid5{
+    background: url(img/image\ 4.png)no-repeat;
+    background-size: cover;
+    height: 239px;
+}
+
+.grid6{
+    background: url(img/image\ 5.png)no-repeat;
+    background-size: cover;
+    height: 239px;
+}
+
+.toop{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: center;
+    margin-top: 112px;
+
+}
+
