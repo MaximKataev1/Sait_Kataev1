@@ -1,0 +1,147 @@
+body{
+    background: snow;
+}
+
+.flex{
+    text-align: center;
+}
+
+.flex1{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+.r{
+    margin-left: 374px;
+    margin-bottom: 32px;
+}
+
+.r2{
+    margin-left: 275px;
+    margin-bottom: 168px;
+}
+
+.r3{
+    margin-left: 374px;
+    margin-top: 80px;
+}
+
+.a1{
+    display: flex;
+    justify-content: center;
+    width: 375px;
+    height: 224px;
+    top: 410px;
+    left: 374px;
+    gap: 16px;
+    background-color: lightgray;
+}
+
+.d1{
+    background-color: lightgray;
+}
+
+.a2{
+    display: flex;
+    justify-content: center;
+    width: 375px;
+    height: 224px;
+    top: 410px;
+    left: 374px;
+    gap: 16px;
+    background-color: lightgray;
+}
+
+.d2{
+    background-color: lightgray;
+}
+
+.a3{
+    display: flex;
+    justify-content: center;
+    width: 375px;
+    height: 224px;
+    top: 410px;
+    left: 374px;
+    gap: 16px;
+    background-color: lightgray;
+}
+
+.d3{
+    background-color: lightgray;
+}
+
+.flex2{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+.a4{
+    justify-content: center;
+    width: 180px;
+    height: 301px;
+    top: 666px;
+    left: 374px;
+    margin-top: 32px;
+    background-color: lightgray;
+}
+
+.d4{
+    background-color: lightgray;
+}
+
+.a5{
+    justify-content: center;
+    width: 180px;
+    height: 301px;
+    top: 666px;
+    left: 374px;
+    margin-top: 32px;
+    background-color: lightgray;
+}
+
+.d5{
+    background-color: lightgray;
+}
+
+.a6{
+    justify-content: center;
+    width: 180px;
+    height: 301px;
+    top: 666px;
+    left: 374px;
+    margin-top: 32px;
+    background-color: lightgray;
+}
+
+.d6{
+    background-color: lightgray;
+}
+
+.i{
+    width: 1158px;
+    height: 417px;
+    top: 1111px;
+    left: 373px;
+    border: 1px;
+    margin-left: 373px;
+}
+
+.p{
+    font-family: "PT Root UI";
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: left;
+}
+
+.p2{
+    font-family: "PT Root UI";
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+
+}
