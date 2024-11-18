@@ -1,0 +1,13 @@
+body {
+    background-color: snow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.content{
+    color: purple;
+    background-color: whitesmoke;
+}
+
+.flex1 {
+    text-align: center;
+}
